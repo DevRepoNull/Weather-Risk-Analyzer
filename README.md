@@ -28,7 +28,7 @@ The system follows a modular and scalable design.
 
 # 📚 Documentation
 For detailed architecture, decisions, and planning:
-[👉 See: ](./Docs/facharacter.md)
+👉 See: [Read-Docs](./Docs/character.md)
 
 # 🛠️ Tech Stack
 - .NET 8
@@ -68,4 +68,4 @@ Weather Risk Analyzer با هدف:
 
 # 📚 مستندات کامل
 برای مشاهده جزئیات معماری، تصمیمات فنی و برنامه توسعه:
-[👉 مراجعه به: ](./Docs/facharacter.md)
+👉 مراجعه به: [خوندن-داک](./Docs/facharacter.md)
